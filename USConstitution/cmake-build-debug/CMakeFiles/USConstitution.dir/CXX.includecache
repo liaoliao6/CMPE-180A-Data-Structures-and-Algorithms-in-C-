@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenjun/CLionProjects/USConstitution/TimedContainer.h
+ctime
+-
+chrono
+-
+
+/home/wenjun/CLionProjects/USConstitution/Word.h
+string
+-
+
+/home/wenjun/CLionProjects/USConstitution/WordList.cpp
+WordList.h
+/home/wenjun/CLionProjects/USConstitution/WordList.h
+algorithm
+-
+
+/home/wenjun/CLionProjects/USConstitution/WordList.h
+list
+-
+TimedContainer.h
+/home/wenjun/CLionProjects/USConstitution/TimedContainer.h
+Word.h
+/home/wenjun/CLionProjects/USConstitution/Word.h
+

@@ -1,0 +1,3 @@
+/home/wenjun/CLionProjects/BookCatalog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wenjun/CLionProjects/BookCatalog/cmake-build-debug/CMakeFiles/BookCatalog.dir
+/home/wenjun/CLionProjects/BookCatalog/cmake-build-debug/CMakeFiles/edit_cache.dir

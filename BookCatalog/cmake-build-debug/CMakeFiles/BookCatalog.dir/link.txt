@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BookCatalog.dir/Book.cpp.o CMakeFiles/BookCatalog.dir/BookApp.cpp.o  -o BookCatalog 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenjun/CLionProjects/BookCatalog/Book.cpp
+Book.h
+/home/wenjun/CLionProjects/BookCatalog/Book.h
+ostream
+-
+iostream
+-
+
+/home/wenjun/CLionProjects/BookCatalog/Book.h
+string
+-
+vector
+-
+
+/home/wenjun/CLionProjects/BookCatalog/BookApp.cpp
+Book.h
+/home/wenjun/CLionProjects/BookCatalog/Book.h
+fstream
+-
+iostream
+-
+sstream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Practice9A1.dir/main.cpp.o CMakeFiles/Practice9A1.dir/list.cpp.o CMakeFiles/Practice9A1.dir/prog.cpp.o  -o Practice9A1 

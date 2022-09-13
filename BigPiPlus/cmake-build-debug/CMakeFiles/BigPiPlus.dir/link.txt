@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BigPiPlus.dir/bigpiplus.cpp.o CMakeFiles/BigPiPlus.dir/arbitraryprecision.cpp.o  -o BigPiPlus -lmpir -lmpirxx 

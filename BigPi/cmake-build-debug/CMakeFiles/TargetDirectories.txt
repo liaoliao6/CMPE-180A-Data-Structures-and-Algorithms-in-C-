@@ -1,0 +1,3 @@
+/home/wenjun/CLionProjects/BigPi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wenjun/CLionProjects/BigPi/cmake-build-debug/CMakeFiles/BigPi.dir
+/home/wenjun/CLionProjects/BigPi/cmake-build-debug/CMakeFiles/edit_cache.dir

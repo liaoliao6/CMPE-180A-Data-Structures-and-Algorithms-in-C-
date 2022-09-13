@@ -1,0 +1,3 @@
+/home/wenjun/CLionProjects/Practice9B1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wenjun/CLionProjects/Practice9B1/cmake-build-debug/CMakeFiles/Practice9B1.dir
+/home/wenjun/CLionProjects/Practice9B1/cmake-build-debug/CMakeFiles/edit_cache.dir

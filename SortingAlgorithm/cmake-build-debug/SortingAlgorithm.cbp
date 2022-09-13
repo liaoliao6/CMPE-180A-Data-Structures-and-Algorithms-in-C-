@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SortingAlgorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SortingAlgorithm">
+				<Option output="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/SortingAlgorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 SortingAlgorithm"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SortingAlgorithm/fast">
+				<Option output="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/SortingAlgorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 SortingAlgorithm/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wenjun/CLionProjects/SortingAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/DataAllZeros.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/DataGenerator.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/DataRandom.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/DataRandom.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/DataReverseSorted.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/DataSorted.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/Element.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/Element.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/InsertionSort.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/InsertionSort.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/LinkedList.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/LinkedList.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/ListSorter.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/ListSorter.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/MergeSort.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/MergeSort.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/Node.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/QuickSortOptimal.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/QuickSortOptimal.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/QuickSortSuboptimal.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/QuickSortSuboptimal.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/QuickSorter.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/QuickSorter.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/SelectionSort.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/SelectionSort.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/ShellSortOptimal.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/ShellSortOptimal.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/ShellSortSuboptimal.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/ShellSortSuboptimal.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/SortTests.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/Sorter.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/Sorter.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/VectorSorter.cpp">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/VectorSorter.h">
+			<Option target="SortingAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/wenjun/CLionProjects/SortingAlgorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

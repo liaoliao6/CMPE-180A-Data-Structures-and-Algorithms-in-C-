@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenjun/CLionProjects/Practice9A2/stack.cpp
+stack.h
+/home/wenjun/CLionProjects/Practice9A2/stack.h
+stdexcept
+-
+stack.h
+/home/wenjun/CLionProjects/Practice9A2/stack.h
+
+/home/wenjun/CLionProjects/Practice9A2/stack.h
+string
+-
+

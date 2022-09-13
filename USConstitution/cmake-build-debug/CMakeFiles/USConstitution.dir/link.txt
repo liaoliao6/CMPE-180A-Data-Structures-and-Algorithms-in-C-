@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/USConstitution.dir/Constitution.cpp.o CMakeFiles/USConstitution.dir/WordList.cpp.o CMakeFiles/USConstitution.dir/WordMap.cpp.o CMakeFiles/USConstitution.dir/WordVector.cpp.o  -o USConstitution 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenjun/CLionProjects/STLVL/Node.h
+
+/home/wenjun/CLionProjects/STLVL/SortedVector.cpp
+iostream
+-
+iterator
+-
+list
+-
+SortedVector.h
+/home/wenjun/CLionProjects/STLVL/SortedVector.h
+
+/home/wenjun/CLionProjects/STLVL/SortedVector.h
+vector
+-
+iterator
+-
+Node.h
+/home/wenjun/CLionProjects/STLVL/Node.h
+

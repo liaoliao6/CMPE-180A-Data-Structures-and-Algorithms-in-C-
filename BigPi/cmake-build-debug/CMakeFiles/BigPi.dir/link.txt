@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BigPi.dir/bigpic.cpp.o  -o BigPi -lmpir -lmpirxx 

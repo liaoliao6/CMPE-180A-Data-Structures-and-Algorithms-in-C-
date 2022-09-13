@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wenjun/CLionProjects/BigPiPlus/arbitraryprecision.cpp
+arbitraryprecision.h
+/home/wenjun/CLionProjects/BigPiPlus/arbitraryprecision.h
+
+/home/wenjun/CLionProjects/BigPiPlus/arbitraryprecision.h
+mpirxx.h
+-
+mpir.h
+-
+
+/home/wenjun/CLionProjects/BigPiPlus/bigpiplus.cpp
+iostream
+-
+arbitraryprecision.h
+/home/wenjun/CLionProjects/BigPiPlus/arbitraryprecision.h
+chrono
+-
+

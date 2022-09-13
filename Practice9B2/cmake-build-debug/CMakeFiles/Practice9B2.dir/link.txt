@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Practice9B2.dir/main.cpp.o  -o Practice9B2 
